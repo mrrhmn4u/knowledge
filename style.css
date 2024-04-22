@@ -1,0 +1,37 @@
+.container-fluid {
+    background-image: url(images/bgimage.png);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(67,59,255,1.00) 0%,rgba(67,59,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(67,59,255,1.00) 0%,rgba(67,59,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(67,59,255,1.00) 0%,rgba(67,59,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(67,59,255,1.00) 0%,rgba(67,59,255,1.00) 100%);
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: #FFFFFF;
+}
+.navbar-nav.mr-auto .nav-item.dropdown #navbarDropdown1 {
+    color: #FFFFFF;
+}
+.nav-item.dropdown .dropdown-menu .dropdown-item {
+    color: #000000;
+}
+.container-fluid .container footer {
+    background-color: #433BFF;
+}
+.container-fluid .container .container-header {
+    text-align: right;
+}
+.row .col-lg-4 table {
+    width: 100%;
+}
+.container-fluid .container footer {
+    text-align: center;
+    color: #FBFBFB;
+}
+
+tbody tr th {
+    background-color: #D121D5;
+    color: #F9F9F9;
+    text-align: center;
+}
